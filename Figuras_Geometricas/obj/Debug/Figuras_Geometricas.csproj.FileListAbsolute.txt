@@ -1,0 +1,14 @@
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.csproj.AssemblyReference.cache
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.FrmHome.resources
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.Properties.Resources.resources
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.csproj.GenerateResource.cache
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.csproj.CoreCompileInputs.cache
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\bin\Debug\Figuras_Geometricas.exe.config
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\bin\Debug\Figuras_Geometricas.exe
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\bin\Debug\Figuras_Geometricas.pdb
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.exe
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.pdb
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.FrmRombo.resources
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.FrmPentagono.resources
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.FrmRomboide.resources
+C:\Users\Niño Moi\source\repos\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.FrmTrapezoide.resources
