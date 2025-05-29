@@ -10,4 +10,8 @@ En el repositorio se encuentran las evidencias de las actividades el Primer parc
    
 2. Figuras_Geometricas
    Contenido respecto al titulo de la segunda tarea:
-   • "Figuras Geométricas2
+   • "Figuras Geométricas2"
+   
+3. Proyecto_U1_Benalcazar_Revilla_Castillo
+   Contiene el proyecto de la Unidad 1 de Computación gráfica:
+   • Tarea de moodle: "Proyecto 1"
