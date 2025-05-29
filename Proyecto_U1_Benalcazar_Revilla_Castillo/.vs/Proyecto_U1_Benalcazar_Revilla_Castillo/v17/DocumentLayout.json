@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\sampleaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:sampleaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\frmventana.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:frmventana.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\frmventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:frmventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\frmventana.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:frmventana.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\cvisualizacionfigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:cvisualizacionfigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\cvisualizacionaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:cvisualizacionaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\proyecto_u1_benalcazar_revilla_castillo\\cventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B00377-25EE-4D46-AA24-ABF7C195F2AF}|Proyecto_U1_Benalcazar_Revilla_Castillo.csproj|solutionrelative:cventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SampleAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\SampleAggregator.cs",
+              "RelativeDocumentMoniker": "SampleAggregator.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\SampleAggregator.cs",
+              "RelativeToolTip": "SampleAggregator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:07:14.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAewA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:06:59.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-29T02:06:53.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmVentana.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\FrmVentana.Designer.cs",
+              "RelativeDocumentMoniker": "FrmVentana.Designer.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\FrmVentana.Designer.cs",
+              "RelativeToolTip": "FrmVentana.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:06:23.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmVentana.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\FrmVentana.cs",
+              "RelativeDocumentMoniker": "FrmVentana.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\FrmVentana.cs",
+              "RelativeToolTip": "FrmVentana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:06:33.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmVentana.resx",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\FrmVentana.resx",
+              "RelativeDocumentMoniker": "FrmVentana.resx",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\FrmVentana.resx",
+              "RelativeToolTip": "FrmVentana.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-29T02:06:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CVisualizacionFigura.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\CVisualizacionFigura.cs",
+              "RelativeDocumentMoniker": "CVisualizacionFigura.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\CVisualizacionFigura.cs",
+              "RelativeToolTip": "CVisualizacionFigura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:06:16.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CVisualizacionAudio.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\CVisualizacionAudio.cs",
+              "RelativeDocumentMoniker": "CVisualizacionAudio.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\CVisualizacionAudio.cs",
+              "RelativeToolTip": "CVisualizacionAudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:06:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CVentana.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\CVentana.cs",
+              "RelativeDocumentMoniker": "CVentana.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Proyecto_U1_Benalcazar_Revilla_Castillo\\CVentana.cs",
+              "RelativeToolTip": "CVentana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:06:06.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
