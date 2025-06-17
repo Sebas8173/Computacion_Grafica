@@ -6,16 +6,17 @@ En el repositorio se encuentran las evidencias de las actividades el Primer parc
 
 1. Figuras_Benalcazar
    Contenido respecto al titulo de la primera tarea:
+
    • "Cálculo de Área y Perímetro de Figuras Geométricas con Interfaz Gráfica en C# (.NET Framework)"
    
-2. Figuras_Geometricas
+3. Figuras_Geometricas
    Contenido respecto al titulo de la segunda tarea:
    • "Figuras Geométricas2"
    
-3. Proyecto_U1_Benalcazar_Revilla_Castillo
+4. Proyecto_U1_Benalcazar_Revilla_Castillo
    Contiene el proyecto de la Unidad 1 de Computación gráfica:
    • Tarea de moodle: "Proyecto 1"
 
-4. Algoritmo de punto medio
+5. Algoritmo de punto medio
    Contiene la primera tarea de la segunda unidad:
    • Tarea de moodle: "Implementación de Algoritmos Gráficos Básicos"
