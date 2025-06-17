@@ -15,3 +15,7 @@ En el repositorio se encuentran las evidencias de las actividades el Primer parc
 3. Proyecto_U1_Benalcazar_Revilla_Castillo
    Contiene el proyecto de la Unidad 1 de Computación gráfica:
    • Tarea de moodle: "Proyecto 1"
+
+4. Algoritmo de punto medio
+   Contiene la primera tarea de la segunda unidad:
+   • Tarea de moodle: "Implementación de Algoritmos Gráficos Básicos"
