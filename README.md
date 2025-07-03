@@ -23,3 +23,13 @@ En el repositorio se encuentran las evidencias de las actividades el Primer parc
    Contiene la primera tarea de la segunda unidad:
 
    • Tarea de moodle: "Implementación de Algoritmos Gráficos Básicos"
+
+5. Algoritmos de Computación
+   Contiene la segunda tarea de la segunda unidad:
+
+   • Tarea de moodle: "Programa interactivo de algoritmos de Computación (Individual)"
+   • Contiene:
+               Rasterización de líneas y curvas
+               Relleno de regiones
+               Recorte geométrico
+               Curvas paramétricas
