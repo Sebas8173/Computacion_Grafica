@@ -1,0 +1,16 @@
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\bin\Debug\Algoritmo de punto medio.exe.config
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\bin\Debug\Algoritmo de punto medio.exe
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\bin\Debug\Algoritmo de punto medio.pdb
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo de punto medio.csproj.AssemblyReference.cache
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo_de_punto_medio.Properties.Resources.resources
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo de punto medio.csproj.GenerateResource.cache
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo de punto medio.csproj.CoreCompileInputs.cache
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo de punto medio.exe
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo de punto medio.pdb
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo de punto medio.exe.config
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo_de_punto_medio.Form1.resources
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo_de_punto_medio.Grafica_Bresenham.resources
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo_de_punto_medio.FrmHome.resources
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo_de_punto_medio.Grafico_DDA.resources
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo_de_punto_medio.FrmFloodFill.resources
+C:\Users\Niño Moi\source\repos\Algoritmo de punto medio\obj\Debug\Algoritmo_de_punto_medio.FrmPrincipal.resources

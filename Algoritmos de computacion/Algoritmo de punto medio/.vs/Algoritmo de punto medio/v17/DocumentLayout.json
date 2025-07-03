@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|c:\\users\\ni\u00F1o moi\\source\\repos\\algoritmo de punto medio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\grafico_dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:grafico_dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\grafica_bresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:grafica_bresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\cfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:cfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmfloodfill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmfloodfill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\frmfloodfill.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:frmfloodfill.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F1C22BEE-1C17-48C1-A3A9-8AC272C3FE5E}|Algoritmo de punto medio.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:12:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grafico_DDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Grafico_DDA.cs",
+              "RelativeDocumentMoniker": "Grafico_DDA.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Grafico_DDA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Grafico_DDA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:59:52.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:02:05.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:01:00.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:47:34.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAgwMEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:14:10.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:59:41.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmHome.cs",
+              "RelativeToolTip": "FrmHome.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:43:48.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmHome.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmHome.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmHome.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:43:47.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmFloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.cs",
+              "RelativeToolTip": "FrmFloodFill.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwHgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:06:01.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmFloodFill.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmFloodFill.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:42:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:02:11.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Grafica_Bresenham.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Grafica_Bresenham.cs",
+              "RelativeDocumentMoniker": "Grafica_Bresenham.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Grafica_Bresenham.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Grafica_Bresenham.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:15:11.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CFloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\CFloodFill.cs",
+              "RelativeDocumentMoniker": "CFloodFill.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\CFloodFill.cs",
+              "RelativeToolTip": "CFloodFill.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:42:35.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmFloodFill.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.Designer.cs",
+              "RelativeDocumentMoniker": "FrmFloodFill.Designer.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.Designer.cs",
+              "RelativeToolTip": "FrmFloodFill.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:46:43.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmFloodFill.resx",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.resx",
+              "RelativeDocumentMoniker": "FrmFloodFill.resx",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\FrmFloodFill.resx",
+              "RelativeToolTip": "FrmFloodFill.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-17T03:46:47.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\Ni\u00F1o Moi\\source\\repos\\Algoritmo de punto medio\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-17T03:33:49.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
