@@ -28,6 +28,7 @@ En el repositorio se encuentran las evidencias de las actividades el Primer parc
    Contiene la segunda tarea de la segunda unidad:
 
    • Tarea de moodle: "Programa interactivo de algoritmos de Computación (Individual)"
+
    • Contiene:
                Rasterización de líneas y curvas
                Relleno de regiones
